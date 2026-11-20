@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.positai
+
+# Kaggle raw data
+data/raw/
+
+# Large model files
+models/*.rds
