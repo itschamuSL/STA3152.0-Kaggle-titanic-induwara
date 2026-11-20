@@ -53,3 +53,10 @@ rsconnect/
 src/*.o
 src/*.so
 src/*.dll
+.positai
+
+# Kaggle raw data
+data/raw/
+
+# Large model files
+models/*.rds
